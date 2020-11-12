@@ -1,0 +1,12 @@
+.display-board {
+  width: 100%;
+  background-color: rgba(0, 128, 49, 0.719);
+  padding: 5%;
+  margin: auto !important;
+}
+
+.number {
+  color: rgb(14, 3, 3);
+  font-size: 75px;
+  text-align: center;
+}
